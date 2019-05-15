@@ -1,5 +1,13 @@
 # 0515 SERVLET
-
+* 포워딩 종류
+![포워딩종류 정리](https://i.imgur.com/cOYaU29.png)
+-----
+* request get메서드 정리
+![request_get메서드정리](https://i.imgur.com/Nl2yuqm.png)
+-----
+* redirect 와 forward의 차이
+![Redirect-forward차이](https://i.imgur.com/wJhByw1.png)
+-----
 * 자바 웹프로그래밍은 서블릿 프로그래밍이다.
 
 * 톰캣이 CGLib를 사용해서 클래스파일의 메서드, 어노테이션을 다 스캔해서
